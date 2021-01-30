@@ -1,0 +1,5 @@
+<layout id="WatchFace">
+    <bitmap id="background"  x="center" y="center" filename="../images/background.png"/>
+    <label id="TimeLabel" x="center" y="center" font="Graphics.FONT_LARGE" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_BLUE" />
+    <label id="TestLabel" x="start" y="center" font="Graphics.FONT_LARGE" justification="Graphics.TEXT_JUSTIFY_CENTER" color="Graphics.COLOR_BLUE">Test Label</label>
+</layout>

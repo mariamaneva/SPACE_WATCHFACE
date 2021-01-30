@@ -1,0 +1,12 @@
+<fonts>
+    <!--font size: 90-->
+    <font id="font_clock" filename="font_clock.fnt" filter="0123456789:" antialias="true"/>
+    <!--font size: 30-->
+    <font id="font_date" filename="font_date.fnt" antialias="true"/>
+    <!--font size: 30-->
+    <font id="font_metrics" filename="font_metrics.fnt" antialias="true"/>
+    <!--font size: 30-->
+    <font id="font_batt" filename="font_batt.fnt" antialias="true"/>
+    <!--font size: 25-->
+    <font id="font_icons" filename="font_icons.fnt" antialias="true"/>
+</fonts>

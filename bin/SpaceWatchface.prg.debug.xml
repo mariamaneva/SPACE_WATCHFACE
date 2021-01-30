@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<manifest filename="F:\WORKS2\WATCHFACE\watchface_tutorial\Watchface-tutorial\manifest.xml"/>
+<pcToLineNum>
+<entry filename="F:\\WORKS2\\WATCHFACE\\watchface_tutorial\\Watchface-tutorial\\source\\WatchfaceTutorialBackground.mc" id="3" lineNum="7" pc="268435456" symbol="initialize"/>
+<entry filename="F:\\WORKS2\\WATCHFACE\\watchface_tutorial\\Watchface-tutorial\\source\\WatchfaceTutorialBackground.mc" id="3" lineNum="8" pc="268435460" symbol="initialize"/>
+<entry filename="F:\\WORKS2\\WATCHFACE\\watchface_tutorial\\Watchface-tutorial\\source\\WatchfaceTutorialBackground.mc" id="3" lineNum="12" pc="268435481" symbol="initialize"/>
+<entry filename="F:\\WORKS2\\WATCHFACE\\watchface_tutorial\\Watchface-tutorial\\source\\WatchfaceTutorialBackground.mc" id="4" lineNum="15" pc="268435502" symbol="draw"/>
+<entry filename="F:\\WORKS2\\WATCHFACE\\watchface_tutorial\\Watchface-tutorial\\source\\WatchfaceTutorialBackground.mc" id="4" lineNum="17" pc="268435506" symbol="draw"/>
+<entry filename="F:\\WORKS2\\WATCHFACE\\watchface_tutorial\\Watchface-tutorial\\source\\WatchfaceTutorialBackground.mc" id="4" lineNum="18" pc="268435559" symbol="draw"/>
+<entry filename="F:\\WORKS2\\WATCHFACE\\watchface_tutorial\\Watchface-tutorial\\source\\WatchfaceTutorialView.mc" id="6" lineNum="11" pc="268435572" symbol="initialize"/>
+<entry filename="F:\\WORKS2\\WATCHFACE\\watchface_tutorial\\Watchface-tutorial\\source\\WatchfaceTutorialView.mc" id="6" lineNum="12" pc="268435576" symbol="initialize"/>
+<entry filename="F:\\WORKS2\\WATCHFACE\\watchface_tutorial\\Watchface-tutorial\\source\\WatchfaceTutorialView.mc" id="7" lineNum="16" pc="268435595" symbol="onLayout"/>
+<entry filename="F:\\WORKS2\\WATCHFACE\\watchface_tutorial\\Watchface-tutorial\\source\\WatchfaceTutorialView.mc" id="7" lineNum="17" pc="268435599" symbol="onLayout"/>
+<entry filename="F:\\WORKS2\\WATCHFACE\\watchface_tutorial\\Watchface-tutorial\\source\\WatchfaceTutorialView.mc" id="8" lineNum="23" pc="268435637" symbol="onShow"/>
+<entry filename="F:\\WORKS2\\WATCHFACE\\watchface_tutorial\\Watchface-tutorial\\source\\WatchfaceTutorialView.mc" id="9" lineNum="27" pc="268435642" symbol="onUpdate"/>
+<entry filename="F:\\WORKS2\\WATCHFACE\\watchface_tutorial\\Watchface-tutorial\\source\\WatchfaceTutorialView.mc" id="9" lineNum="29" pc="268435646" symbol="onUpdate"/>
+<entry filename="F:\\WORKS2\\WATCHFACE\\watchface_tutorial\\Watchface-tutorial\\source\\WatchfaceTutorialView.mc" id="9" lineNum="30" pc="268435653" symbol="onUpdate"/>
+<entry filename="F:\\WORKS2\\WATCHFACE\\watchface_tutorial\\Watchface-tutorial\\source\\WatchfaceTutorialView.mc" id="9" lineNum="31" pc="268435670" symbol="onUpdate"/>
+<entry filename="F:\\WORKS2\\WATCHFACE\\watchface_tutorial\\Watchface-tutorial\\source\\WatchfaceTutorialView.mc" id="9" lineNum="32" pc="268435680" symbol="onUpdate"/>
+<entry filename="F:\\WORKS2\\WATCHFACE\\watchface_tutorial\\Watchface-tutorial\\source\\WatchfaceTutorialView.mc" id="9" lineNum="33" pc="268435705" symbol="onUpdate"/>
+<entry filename="F:\\WORKS2\\WATCHFACE\\watchface_tutorial\\Watchface-tutorial\\source\\WatchfaceTutorialView.mc" id="9" lineNum="34" pc="268435716" symbol="onUpdate"/>
+<entry filename="F:\\WORKS2\\WATCHFACE\\watchface_tutorial\\Watchface-tutorial\\source\\WatchfaceTutorialView.mc" id="9" lineNum="37" pc="268435732" symbol="onUpdate"/>
+<entry filename="F:\\WORKS2\\WATCHFACE\\watchface_tutorial\\Watchface-tutorial\\source\\WatchfaceTutorialView.mc" id="9" lineNum="38" pc="268435764" symbol="onUpdate"/>
+<entry filename="F:\\WORKS2\\WATCHFACE\\watchface_tutorial\\Watchface-tutorial\\source\\WatchfaceTutorialView.mc" id="9" lineNum="39" pc="268435771" symbol="onUpdate"/>
+<entry filename="F:\\WORKS2\\WATCHFACE\\watchface_tutorial\\Watchface-tutorial\\source\\WatchfaceTutorialView.mc" id="9" lineNum="42" pc="268435792" symbol="onUpdate"/>
+<entry filename="F:\\WORKS2\\WATCHFACE\\watchface_tutorial\\Watchface-tutorial\\source\\WatchfaceTutorialView.mc" id="9" lineNum="45" pc="268435857" symbol="onUpdate"/>
+<entry filename="F:\\WORKS2\\WATCHFACE\\watchface_tutorial\\Watchface-tutorial\\source\\WatchfaceTutorialView.mc" id="9" lineNum="46" pc="268435881" symbol="onUpdate"/>
+<entry filename="F:\\WORKS2\\WATCHFACE\\watchface_tutorial\\Watchface-tutorial\\source\\WatchfaceTutorialView.mc" id="9" lineNum="47" pc="268435922" symbol="onUpdate"/>
+<entry filename="F:\\WORKS2\\WATCHFACE\\watchface_tutorial\\Watchface-tutorial\\source\\WatchfaceTutorialView.mc" id="9" lineNum="48" pc="268435936" symbol="onUpdate"/>
+<entry filename="F:\\WORKS2\\WATCHFACE\\watchface_tutorial\\Watchface-tutorial\\source\\WatchfaceTutorialView.mc" id="9" lineNum="51" pc="268435953" symbol="onUpdate"/>
+<entry filename="F:\\WORKS2\\WATCHFACE\\watchface_tutorial\\Watchface-tutorial\\source\\WatchfaceTutorialView.mc" id="9" lineNum="53" pc="268435973" symbol="onUpdate"/>
+<entry filename="F:\\WORKS2\\WATCHFACE\\watchface_tutorial\\Watchface-tutorial\\source\\WatchfaceTutorialView.mc" id="9" lineNum="55" pc="268435990" symbol="onUpdate"/>
+<entry filename="F:\\WORKS2\\WATCHFACE\\watchface_tutorial\\Watchface-tutorial\\source\\WatchfaceTutorialView.mc" id="9" lineNum="56" pc="268435997" symbol="onUpdate"/>
+<entry filename="F:\\WORKS2\\WATCHFACE\\watchface_tutorial\\Watchface-tutorial\\source\\WatchfaceTutorialView.mc" id="9" lineNum="59" pc="268436007" symbol="onUpdate"/>
+<entry filename="F:\\WORKS2\\WATCHFACE\\watchface_tutorial\\Watchface-tutorial\\source\\WatchfaceTutorialView.mc" id="9" lineNum="61" pc="268436014" symbol="onUpdate"/>
+<entry filename="F:\\WORKS2\\WATCHFACE\\watchface_tutorial\\Watchface-tutorial\\source\\WatchfaceTutorialView.mc" id="10" lineNum="71" pc="268436039" symbol="onHide"/>
+<entry filename="F:\\WORKS2\\WATCHFACE\\watchface_tutorial\\Watchface-tutorial\\source\\WatchfaceTutorialView.mc" id="11" lineNum="75" pc="268436044" symbol="onExitSleep"/>
+<entry filename="F:\\WORKS2\\WATCHFACE\\watchface_tutorial\\Watchface-tutorial\\source\\WatchfaceTutorialView.mc" id="12" lineNum="79" pc="268436049" symbol="onEnterSleep"/>
+<entry filename="F:\\WORKS2\\WATCHFACE\\watchface_tutorial\\Watchface-tutorial\\source\\WatchfaceTutorialApp.mc" id="14" lineNum="6" pc="268436054" symbol="initialize"/>
+<entry filename="F:\\WORKS2\\WATCHFACE\\watchface_tutorial\\Watchface-tutorial\\source\\WatchfaceTutorialApp.mc" id="14" lineNum="7" pc="268436058" symbol="initialize"/>
+<entry filename="F:\\WORKS2\\WATCHFACE\\watchface_tutorial\\Watchface-tutorial\\source\\WatchfaceTutorialApp.mc" id="15" lineNum="11" pc="268436077" symbol="onStart"/>
+<entry filename="F:\\WORKS2\\WATCHFACE\\watchface_tutorial\\Watchface-tutorial\\source\\WatchfaceTutorialApp.mc" id="16" lineNum="15" pc="268436082" symbol="onStop"/>
+<entry filename="F:\\WORKS2\\WATCHFACE\\watchface_tutorial\\Watchface-tutorial\\source\\WatchfaceTutorialApp.mc" id="17" lineNum="19" pc="268436087" symbol="getInitialView"/>
+<entry filename="F:\\WORKS2\\WATCHFACE\\watchface_tutorial\\Watchface-tutorial\\source\\WatchfaceTutorialApp.mc" id="17" lineNum="20" pc="268436091" symbol="getInitialView"/>
+<entry filename="F:\\WORKS2\\WATCHFACE\\watchface_tutorial\\Watchface-tutorial\\source\\WatchfaceTutorialApp.mc" id="18" lineNum="24" pc="268436129" symbol="onSettingsChanged"/>
+<entry filename="F:\\WORKS2\\WATCHFACE\\watchface_tutorial\\Watchface-tutorial\\source\\WatchfaceTutorialApp.mc" id="18" lineNum="25" pc="268436133" symbol="onSettingsChanged"/>
+<entry filename="Rez" id="24" lineNum="15" pc="268436150" symbol="WatchFace"/>
+<entry filename="Rez" id="24" lineNum="17" pc="268436162" symbol="WatchFace"/>
+<entry filename="Rez" id="24" lineNum="18" pc="268436186" symbol="WatchFace"/>
+<entry filename="Rez" id="24" lineNum="20" pc="268436349" symbol="WatchFace"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+<entry id="4" module="true" symbol="globals/Rez/Menus"/>
+<entry id="8389683" method="true" symbol="onSettingsChanged"/>
+<entry field="true" id="16" symbol="ColorRed"/>
+<entry field="true" id="20" symbol="MilitaryFormatTitle"/>
+<entry id="9" object="true" symbol="WatchfaceTutorialView"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry field="true" id="15" symbol="ColorBlue"/>
+<entry field="true" id="23" symbol="AppName"/>
+<entry id="8388633" module="true" symbol="ActivityMonitor"/>
+<entry id="8" module="true" symbol="globals/Rez/Strings"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="8388631" module="true" symbol="Activity"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="2" module="true" symbol="globals/Rez"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389375" method="true" object="true" symbol="WatchFace"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389348" symbol="font"/>
+<entry id="12" module="true" symbol="Menus"/>
+<entry field="true" id="19" symbol="ColorDarkGray"/>
+<entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389376" method="true" symbol="onEnterSleep"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="8389349" symbol="justification"/>
+<entry field="true" id="22" symbol="ColorWhite"/>
+<entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+<entry field="true" id="21" symbol="ColorBlack"/>
+<entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+<entry id="10" object="true" symbol="WatchfaceTutorialApp"/>
+<entry id="8389377" method="true" symbol="onExitSleep"/>
+<entry id="8388644" module="true" symbol="System"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry field="true" id="13" symbol="LauncherIcon"/>
+<entry id="8388610" symbol="statics"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8389350" module="true" symbol="globals"/>
+<entry field="true" id="18" symbol="BackgroundColorTitle"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8390146" module="true" object="true" symbol="Background"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="14" symbol="ColorLightGray"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="8389347" symbol="color"/>
+<entry field="true" id="17" symbol="ForegroundColorTitle"/>
+<entry id="11" module="true" symbol="Layouts"/>
+<entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8388635" module="true" symbol="Application"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435501" name="dictionary" stackId="1" startPc="268435460"/>
+<entry arg="true" endPc="268435572" name="dc" stackId="1" startPc="268435502"/>
+<entry arg="true" endPc="268435637" name="dc" stackId="1" startPc="268435595"/>
+<entry endPc="268436035" name="hr" stackId="8" startPc="268435997"/>
+<entry endPc="268436038" name="view" stackId="6" startPc="268435646"/>
+<entry endPc="268436038" name="hours" stackId="4" startPc="268435646"/>
+<entry endPc="268436038" name="timeString" stackId="5" startPc="268435646"/>
+<entry endPc="268436038" name="clockTime" stackId="3" startPc="268435646"/>
+<entry endPc="268436038" name="info" stackId="7" startPc="268435646"/>
+<entry endPc="268436038" name="timeFormat" stackId="2" startPc="268435646"/>
+<entry arg="true" endPc="268436039" name="dc" stackId="1" startPc="268435642"/>
+<entry arg="true" endPc="268436082" name="state" stackId="1" startPc="268436077"/>
+<entry arg="true" endPc="268436087" name="state" stackId="1" startPc="268436082"/>
+<entry endPc="268436376" name="rez_cmp_local_custom_drawable_86287913511527344925" stackId="2" startPc="268436162"/>
+<entry endPc="268436376" name="rez_cmp_local_text_TimeLabel" stackId="3" startPc="268436162"/>
+<entry arg="true" endPc="268436377" name="dc" stackId="1" startPc="268436150"/>
+</localVars>
+<annotations/>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="158" parentId="globals" symbolId="Background" type="class"/>
+<dataEntry offset="213" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="292" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="331" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="362" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="393" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="432" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="463" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="574" parentId="globals" symbolId="WatchfaceTutorialView" type="class"/>
+<dataEntry offset="669" parentId="globals" symbolId="WatchfaceTutorialApp" type="class"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="Background">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="draw" parent="Background">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="WatchfaceTutorialView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="WatchfaceTutorialView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="WatchfaceTutorialView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="WatchfaceTutorialView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="WatchfaceTutorialView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onExitSleep" parent="WatchfaceTutorialView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onEnterSleep" parent="WatchfaceTutorialView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="WatchfaceTutorialApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="WatchfaceTutorialApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="WatchfaceTutorialApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="WatchfaceTutorialApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSettingsChanged" parent="WatchfaceTutorialApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="WatchFace" parent="Layouts">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>
