@@ -20,6 +20,11 @@ class SpaceWatchfaceApp extends Application.AppBase {
         return [ new SpaceWatchfaceView() ];
     }
 
+    // Returns a view that allows for changing the watch settings
+    function getSettingsView() {
+        return [ new SettingsMenu(), new SettingsMenuInputDelegate() ];
+    }
+
     // New app settings have been received so trigger a UI update
     function onSettingsChanged() {
         WatchUi.requestUpdate();

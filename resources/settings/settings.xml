@@ -1,5 +1,18 @@
 <settings>
 
+    <setting propertyKey="@Properties.Color" title="@Strings.SettingsMenuTitle">
+        <settingConfig type="list">
+            <listEntry value="0">@Strings.ColorBlue</listEntry>
+            <listEntry value="1">@Strings.ColorYellow</listEntry>
+            <listEntry value="2">@Strings.ColorPink</listEntry>
+            <listEntry value="3">@Strings.ColorPurple</listEntry>
+            <listEntry value="4">@Strings.ColorGreen</listEntry>
+            <listEntry value="5">@Strings.ColorOrange</listEntry>
+        </settingConfig>
+    </setting>
+
+    <!-- 
+
     <setting propertyKey="@Properties.BackgroundColor" title="@Strings.BackgroundColorTitle">
         <settingConfig type="list">
             <listEntry value="0x000000">@Strings.ColorBlack</listEntry>
@@ -8,7 +21,6 @@
             <listEntry value="0xFFFFFF">@Strings.ColorWhite</listEntry>
         </settingConfig>
     </setting>
-
     <setting propertyKey="@Properties.ForegroundColor" title="@Strings.ForegroundColorTitle">
         <settingConfig type="list">
             <listEntry value="0x000000">@Strings.ColorBlack</listEntry>
@@ -20,6 +32,6 @@
 
     <setting propertyKey="@Properties.UseMilitaryFormat" title="@Strings.MilitaryFormatTitle">
         <settingConfig type="boolean" />
-    </setting>
+    </setting> -->
 
 </settings>

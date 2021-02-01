@@ -20,14 +20,10 @@ class SpaceWatchfaceView extends WatchUi.WatchFace {
     var font_metrics;
     var font_batt;
     var font_icons;
+    var highlghtColors;
 
     function initialize() {
         WatchFace.initialize();
-        // myBitmap = new WatchUi.Bitmap({
-        //     :rezId=>Rez.Drawables.background,
-        //     :locX=>10,
-        //     :locY=>30
-        // });
     }
 
     // Load your resources here
@@ -41,6 +37,8 @@ class SpaceWatchfaceView extends WatchUi.WatchFace {
         font_metrics = WatchUi.loadResource(Rez.Fonts.font_metrics);
         font_batt = WatchUi.loadResource(Rez.Fonts.font_batt);
         font_icons = WatchUi.loadResource(Rez.Fonts.font_icons);
+        
+        highlghtColors = [dc.COLOR_BLUE, dc.COLOR_YELLOW, dc.COLOR_PINK, dc.COLOR_PURPLE, dc.COLOR_GREEN, dc.COLOR_ORANGE];
     }
 
     // Called when this View is brought to the foreground. Restore
@@ -55,21 +53,18 @@ class SpaceWatchfaceView extends WatchUi.WatchFace {
         var width = dc.getWidth();
         var height = dc.getHeight();
 
-        // TODO: figure out why tf app doesnt find these properties
-        // var hightlightColor = app.getApp().getProperty("HighlightColor").toNumber();
-        // var defaultColor = app.getApp().getProperty("ForegroundColor").toNumber();
-        // var hightlightColor = 0x6EFAFF;
-
-        // cool color ooptions:  
-            // dc.COLOR_YELLOW, 
-            // dc.COLOR_PINK,
-            // dc.COLOR_PURPLE
-            // dc.COLOR_BLUE
-
-        var hightlightColor = dc.COLOR_BLUE;
+        // get highlight color from settings
+        var selectedColorKey = Application.Properties.getValue("Color");
+        var hightlightColor = highlghtColors[selectedColorKey];
+        // var hightlightColor = dc.COLOR_BLUE;
         var defaultColor = dc.COLOR_WHITE;
         var seconaryColor = dc.COLOR_LT_GRAY;
         var transparent = dc.COLOR_TRANSPARENT;
+
+        // ENABLE ANTI-ALIAS IF EXISTS
+        if (dc has :setAntiAlias) {
+            dc.setAntiAlias(true);
+        }
 
         // RESET LAYOUT BEFORE DRAWING
         dc.setColor(dc.COLOR_BLACK, dc.COLOR_BLACK);
