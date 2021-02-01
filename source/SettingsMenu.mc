@@ -48,6 +48,14 @@ class SettingsMenuInputDelegate extends WatchUi.Menu2InputDelegate {
     public function initialize() {
         Menu2InputDelegate.initialize();
     }
+
+    function closeMenu() {
+        // Ensure that the watchface reloads any settings that have been changed
+        Application.getApp().onSettingsChanged();
+        
+        // We're done here!
+        popView(WatchUi.SLIDE_RIGHT);
+    }
     
     public function onSelect(item) {
         var itemLabel = item.getLabel().toString();
@@ -58,21 +66,14 @@ class SettingsMenuInputDelegate extends WatchUi.Menu2InputDelegate {
                 Application.Properties.setValue("Color", i);
             }
         }
+        closeMenu();
     }
     
     public function onBack() {
-        // Ensure that the watchface reloads any settings that have been changed
-        Application.getApp().onSettingsChanged();
-        
-        // We're done here!
-        popView(WatchUi.SLIDE_RIGHT);
+        closeMenu();
     }
     public function onHide() {
-        // Ensure that the watchface reloads any settings that have been changed
-        Application.getApp().onSettingsChanged();
-        
-        // We're done here!
-        popView(WatchUi.SLIDE_RIGHT);
+        closeMenu();
     }
     
 }
